@@ -9,5 +9,7 @@ This was a fun project inspired by siminez, aka @I_D_A_M. Thanks for the neat id
 
 # to-do
 [ ] save results as JSON
+
 [ ] accept flags for updating or searching
+
 [ ] return prebuilt links for each description item
